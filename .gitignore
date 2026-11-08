@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+coverage/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+yarn-error.log*
+.DS_Store
+Thumbs.db
